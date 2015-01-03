@@ -1,0 +1,1 @@
+-L/usr/X11/lib -lmlx -lXext -lx11
